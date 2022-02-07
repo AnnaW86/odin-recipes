@@ -1,0 +1,22 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    background-color: #dddfd4;
+    color: #173e43
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin: 10px 20px;
+
+}
+
+#bodyContainer {
+    display: flex;
+    gap: 50px;
+}   
